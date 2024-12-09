@@ -31,7 +31,7 @@
 
 ### Desktop
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java%20Mobile-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ### Mobile
 ![React Native](https://img.shields.io/badge/-React%20Native-05122A?style=flat&logo=react)&nbsp;
 ![Java Mobile](https://img.shields.io/badge/-Java%20Mobile-05122A?style=flat&logo=android&logoColor=3DDC84)&nbsp;
